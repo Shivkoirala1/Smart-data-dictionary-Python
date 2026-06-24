@@ -82,4 +82,4 @@ GitHub: [@Shivkoirala1](https://github.com/Shivkoirala1)
 
 ## 📄 License
 
-This project is open source and available for educational use.
+This project is open source and available for educational use only.
